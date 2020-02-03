@@ -30,8 +30,8 @@ Python, MongoDB, VS Code, Jupyter Notebook, Flask
 - Portfolio
 	- Created personal Portfolio with personal information and samples of projects. 
 
-![] Portfolio1PNG.PNG
-![] Portfolio_Image.PNG
+![](Portfolio1PNG.PNG)
+![](Portfolio_Image.PNG)
 
 	
 
